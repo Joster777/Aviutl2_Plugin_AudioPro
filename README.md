@@ -1,0 +1,2 @@
+# Aviutl2_Plugin_AudioPro
+Aviutl2に新しい音声効果を追加するプラグインです。
